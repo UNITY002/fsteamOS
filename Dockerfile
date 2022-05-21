@@ -1,5 +1,5 @@
 #please dont edit this file
-FROM ubuntu:20.04
+FROM ubuntu
 
 LABEL AboutImage "Ubuntu20.04_Fluxbox_NoVNC"
 
